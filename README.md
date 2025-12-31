@@ -87,9 +87,18 @@ Tuesday	n. 星期二
 
 [**https://github.com/kajweb/dict**](https://github.com/kajweb/dict) → fork → [**https://github.com/KyleBing/dict**](https://github.com/KyleBing/dict) → 简化 → 本库
 
-配套在线背单词网站项目：[**https://github.com/heygsc/word-wind**](https://github.com/heygsc/word-wind)
+## 五、衍生项目
 
-**初衷**  
+| 项目图标 | 项目名 | 作者 | github |
+|---|---|---|---|
+| <img width="50" src="https://github.com/heygsc/word-wind/blob/main/doc/logo-big.png"/> | Word Wind | [heygsc](https://github.com/heygsc) | [https://github.com/heygsc/word-wind](https://github.com/heygsc/word-wind) | 
+| <img width="50" src="https://github.com/KyleBing/vocabulary/raw/master/public/logo.png"/> |  蚕食 | [KyleBing](https://github.com/KyleBing) |  [https://github.com/KyleBing/vocabulary](https://github.com/KyleBing/vocabulary) | 
+
+
+---
+
+
+## 初衷  
 有些时候需要单词和释义的 txt 列表，只是单纯的单词列表，结果网上找一圈全是文库里的，还要充会员，相当恶心。  
-有点分享精神好不好，为了方便大家用于学习使用放 github 了。  
-后来发现只有词条不够用，真正学习的时候还是需要例句才能更好的帮助单词记忆，所以又添加了其它版本的 json 文件。
+有点分享精神好不好，作为一个学习资源，该共享出来一起做一些可以方便学习的项目，为了方便大家用于学习使用放 github 了。  
+后来发现只有词条不够用，真正学习的时候还是需要例句才能更好的帮助单词记忆，所以又添加了带例句的 json 文件。
